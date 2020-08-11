@@ -1,0 +1,62 @@
+:root {
+  --color-background: #1b1b1f;
+  --color-primary-lighter: #1f1f23; /*botão estudar*/
+  --color-primary-light: #774dd6; /*hover botão estudar #916bea */
+  --color-primary: #0e0e10; /*fundo*/
+  --color-primary-dark: #774dd6;
+  --color-primary-darker: #6842c2;
+  --color-secundary: #1f1f23;
+  --color-secundary-dark: #04BF58; /*hover dar aulas */
+  --color-title-in-primary: #ffffff;
+  --color-text-in-primary: rgb(168, 166, 166); /*texto menor importância*/
+  --color-text-title: #774dd6;
+  --color-text-complement: #9c98a6;
+  --color-text-base: #6a6180;
+  --color-line-in-white: #3a3a3c;
+  --color-input-background: #f8f8fc;
+  --color-button-text: white;
+  --color-box-base: #ffffff;
+  --color-box-footer: #fafafc;
+
+  font-size: 60%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100vh;
+}
+
+body {
+  background: var(--color-background);
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body,
+input,
+button,
+textarea {
+  font: 500 1.6rem Poppins;
+}
+
+.container {
+  width: 90vw;
+  max-width: 700px;
+}
+
+@media (min-width: 700px) {
+  :root {
+    font-size: 62.5%;
+  }
+}

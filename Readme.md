@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./readme/logo.png"/>
+  <br><br>
+</p>
+<p align="center">
   <img src="./readme/gifProffy.gif"/>
   <br><br>
 </p>

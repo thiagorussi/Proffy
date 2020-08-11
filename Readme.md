@@ -62,6 +62,6 @@ Ir para a pasta 'web' para rodar o front-end, ou ir para pasta 'server' para rod
 
 
 ## 📕 Licença
-
+<div align="center">
 Todos os arquivos incluídos aqui, incluindo este _README_, estão sob [Licença MIT](./LICENSE).<br>
-Criado com ❤ por [Thiago Russi](https://github.com/thiagorussi)
+Criado com ❤ por [Thiago Russi](https://github.com/thiagorussi) </div>

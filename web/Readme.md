@@ -56,7 +56,7 @@ Vamos fazer algumas alterações em arquivos do template que não vamos utilizar
 A construção do layout da nossa aplicação seguirá o conceito de Mobile First, ou seja, primeiro estilizaremos o layout para dispositivos mobile e depois trabalharemos nas media-querys para ajusta-los as outras telas maiores.
 
 Dentro da pasta 'assets' vamos criar uma subpasta 'styles' e dentro dela um arquivo 'global.css'. Nesse arquivo teremos estilizações globais que servirão para todo o projeto.
-Vamos usar unidades de medidas do css que são adaptáveis a diferentes telas, para termos um layout responsivo (ex: rem, vh e vw). Para acessar o estilo completo, clicar [aqui](https://github.com/dxwebster/NLW2-Proffy/blob/master/web/src/assets/styles/global.css).
+Vamos usar unidades de medidas do css que são adaptáveis a diferentes telas, para termos um layout responsivo (ex: rem, vh e vw). Para acessar o estilo completo, clicar [aqui](https://github.com/thiagorussi/Proffy/blob/master/web/src/assets/styles/global.css).
 Abaixo, vamos comentar alguns pontos importantes:
 
 Com o border-box, o width e height incluem o tamanho padding size e a propriedade border, mas não incluem a propriedade margin:

@@ -11,8 +11,8 @@
 <div align="center">
 Acesse os Readmes com passo a passo, divididos em Front-end, Back-end:  <br><br>
 
-💻 **Acesse o Front-end [aqui](https://github.com/thiagorussi/NLW2-Proffy/tree/master/web)** | 
-🖥 **Acesse o Back-end [aqui](https://github.com/thiagorussi/NLW2-Proffy/tree/master/server)** | 
+💻 **Acesse o Front-end [aqui](https://github.com/thiagorussi/Proffy/tree/master/web)** | 
+🖥 **Acesse o Back-end [aqui](https://github.com/thiagorussi/Proffy/tree/master/server)** | 
 
 </div>
 
